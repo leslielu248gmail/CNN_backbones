@@ -10,7 +10,7 @@ import numpy as np
 import torch.optim as optim
 from tqdm import tqdm
 
-from model import AlexNet
+from alexnet import AlexNet
 
 
 def main():
