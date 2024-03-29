@@ -4,7 +4,7 @@ from torchvision import transforms, datasets
 import torch.optim as optim
 from tqdm import tqdm
 
-from model import vgg
+from vgg import vgg
 
 
 def main():
